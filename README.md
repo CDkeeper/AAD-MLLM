@@ -32,7 +32,7 @@ Our models finetuned with AAD-MLLM:
 
 Basic Model | Checkpoint
  :- | :-
-`llava-AAD-MLLM` |[llava-video-7b-AAD-MLLM](https://huggingface.co/HuggingDaChen/llava-1.5-7b-AAD-MLLM)
+`llava-AAD-MLLM` |[llava-video-7b-AAD-MLLM](https://huggingface.co/HuggingDaChen/llava-video-7b-AAD-MLLM)
 
 
 
